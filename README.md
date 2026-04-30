@@ -87,4 +87,4 @@ JobSchedulingSystem/
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improvements or new features.
 
 ---
-*Created for SEM IV Project - Job Scheduling Optimization*
+*Created for SEM IV Project for Coding Skill II - Job Scheduling Optimization*
